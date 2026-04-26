@@ -7,7 +7,7 @@ A collection of JavaScript utility functions covering string manipulation, array
 ## 📁 Project Structure
 
 ```
-js-functions/
+CHECKPOINT-JS2/
 └── functions.js   # All functions grouped by category
 ```
 
