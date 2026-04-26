@@ -110,13 +110,6 @@ fibonacci(8); // → [0, 1, 1, 2, 3, 5, 8, 13]
 
 1. Clone or download the project
 2. Open a terminal in the project folder
-3. Run the file with Node.js:
-
-```bash
-node functions.js
-```
-
-Or open the browser console and paste the code directly.
 
 ---
 
